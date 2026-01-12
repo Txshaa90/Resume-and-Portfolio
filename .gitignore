@@ -1,0 +1,15 @@
+# Backup files
+*_old.*
+*_new.*
+*_sidebar.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# PDF Instructions (optional)
+README_PDF_Instructions.txt
